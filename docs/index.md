@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Services from Privacy Guides
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+[Privacy Guides](https://www.privacyguides.org) runs a number of web services to test out features and promote cool decentralized, federated, and/or open-source projects. Many of these services are available to the public and are detailed below.
 
-## Commands
+## Gitea
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- Domain: [code.privacyguides.dev](https://code.privacyguides.dev/)
+- Availability: Invite-Only
+- Source: [snapcraft.io/gitea](https://snapcraft.io/gitea)
 
-## Project layout
+## Matrix
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Domain: [matrix.privacyguides.org](https://matrix.privacyguides.org)
+- Availability: Private
+- Source: [github.com/spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)
+
+## SearXNG
+
+- Domain: [search.privacyguides.net](https://search.privacyguides.net/)
+- Availability: Public
+- Source: [github.com/searxng/searxng-docker](https://github.com/searxng/searxng-docker)

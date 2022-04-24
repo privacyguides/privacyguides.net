@@ -2,7 +2,7 @@ docs_dir: 'docs'
 site_url: "https://www.privacyguides.net/"
 site_dir: 'site'
 
-site_name: Privacy Services
+site_name: Privacy Guides
 site_description: |
   Massive organizations are monitoring your online activities. Privacy Guides is your central privacy and security resource to protect yourself online.
 copyright: |
@@ -83,3 +83,7 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 4
+
+nav:
+  - Online Services: 'index.md'
+  - About Us: 'https://www.privacyguides.org/about/'
