@@ -2,7 +2,7 @@ docs_dir: 'docs'
 site_url: "https://www.privacyguides.net/"
 site_dir: 'site'
 
-site_name: Privacy Guides
+site_name: Privacy Guides.net
 site_description: |
   Massive organizations are monitoring your online activities. Privacy Guides is your central privacy and security resource to protect yourself online.
 copyright: |
@@ -21,12 +21,16 @@ extra:
       link: https://github.com/privacyguides
     - icon: fontawesome/brands/reddit-alien
       link: https://reddit.com/r/PrivacyGuides
+repo_url: https://github.com/privacyguides/privacyguides.net
+repo_name: privacyguides.net
 edit_uri: edit/main/docs/
 
 theme:
   name: material
   logo: assets/logo.svg
   favicon: assets/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
   font: false
   features:
     - navigation.tracking
@@ -48,6 +52,7 @@ theme:
 
 plugins:
   - tags
+  - search
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
@@ -86,4 +91,5 @@ markdown_extensions:
 
 nav:
   - Online Services: 'index.md'
+  - Report an Issue: 'https://github.com/privacyguides/privacyguides.net/issues'
   - About Us: 'https://www.privacyguides.org/about/'

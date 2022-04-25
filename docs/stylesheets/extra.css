@@ -62,11 +62,11 @@
 
 /* Define brand */
 :root {
-    --md-primary-fg-color:        #FFD06F;
-    --md-primary-fg-color--light: #ffdd98;
-    --md-primary-fg-color--dark:  #db9d21;
-    --md-primary-bg-color: rgba(0,0,0,.75);
-    --md-primary-bg-color--light: rgba(0,0,0,.54);
+    --md-primary-fg-color:        #CA1551;
+    --md-primary-fg-color--light: #ec5084;
+    --md-primary-fg-color--dark:  #9d0e3d;
+    --md-primary-bg-color: #fff;
+    --md-primary-bg-color--light: hsla(0,0%,100%,.7);
     --md-text-font: "Public Sans", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
     --md-code-font: "DM Mono", SFMono-Regular, Consolas, Menlo, monospace;
 }
