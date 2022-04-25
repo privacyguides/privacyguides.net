@@ -19,3 +19,16 @@
 - Domain: [search.privacyguides.net](https://search.privacyguides.net/)
 - Availability: Public
 - Source: [github.com/searxng/searxng-docker](https://github.com/searxng/searxng-docker)
+
+## Tor
+
+**Exit Relay:**
+
+- Hostname: [tor-exit-1.privacyguides.net](http://167.235.245.76/)
+- Fingerprint: `7B9F35C54CEFE17AFA933D69BB996A7D648859F5`
+- [Metrics](https://metrics.torproject.org/rs.html#details/7B9F35C54CEFE17AFA933D69BB996A7D648859F5)
+
+**Hidden Service:**
+
+- Website: privacyguides.org
+- Hostname: [eter4u55b667kuo72ntpm7ut54sa2mxmr22iqgzns4jw7boeox3qgyid.onion](http://eter4u55b667kuo72ntpm7ut54sa2mxmr22iqgzns4jw7boeox3qgyid.onion/)
