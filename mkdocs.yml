@@ -33,7 +33,6 @@ theme:
     repo: fontawesome/brands/github
   font: false
   features:
-    - navigation.tracking
     - navigation.tabs
     - navigation.sections
   palette:
@@ -93,3 +92,4 @@ nav:
   - Online Services: 'index.md'
   - Report an Issue: 'https://github.com/privacyguides/privacyguides.net/issues'
   - About Us: 'https://www.privacyguides.org/about/'
+  - Donate: 'https://opencollective.com/privacyguides'
