@@ -12,6 +12,9 @@ copyright: |
 
 extra:
   generator: false
+  analytics:
+    provider: plausible
+    property: privacyguides.net
   social:
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@privacyguides
@@ -32,6 +35,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   font: false
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
