@@ -42,7 +42,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   font: false
-  custom_dir: overrides
+  custom_dir: theme
   features:
     - navigation.tabs
     - navigation.sections
